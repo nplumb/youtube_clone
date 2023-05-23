@@ -1,3 +1,6 @@
+# youtube clone
+A youtube enabled applicaition to display top videos per category list plus ability to search for videos and channels from user input 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
